@@ -3,3 +3,10 @@
 
 # Jupyter notebook
 **/.ipynb_checkpoints
+
+# Data file
+*.csv
+*.zip
+
+# Images
+*.jpg
