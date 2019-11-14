@@ -15,6 +15,7 @@ Data/
 
 # Images
 *.jpg
+*.png
 
 # XMind
 *.xmind
