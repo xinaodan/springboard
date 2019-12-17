@@ -12,6 +12,7 @@ Data/
 *.csv
 *.zip
 *.dta
+*.xlsx
 
 # Images
 *.jpg
