@@ -4,7 +4,7 @@
 # Jupyter notebook
 **/.ipynb_checkpoints
 
-# Data folder
+# Data directory
 data/
 Data/
 
@@ -17,6 +17,9 @@ Data/
 # Images
 *.jpg
 *.png
+
+# Report directory
+reports/
 
 # XMind
 *.xmind
